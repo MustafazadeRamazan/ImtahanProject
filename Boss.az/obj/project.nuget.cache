@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9XEWX1kGpXyXGV95Kzt4tsaTLE89KxnQQNo8GJAhhjTHDsKw9REwz4Eddh5hCPAGSc8n5n/mqnKNSjVLlyVdxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Workm\\Desktop\\Boss.az\\Boss.az\\Boss.az.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Workm\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
